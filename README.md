@@ -8,7 +8,7 @@ I wrote it in C++, but it's a bit sloppy with variables being reused for differe
 
 ——————————————————————————
 
-uh, below are the original ideas for how the program would work, though they're probably not original outisde of my head since connnect 4 has been around for so long. At least it's the first time I've thought about this kind of thing so it's close enough to originality to me.
+uh, below are the original ideas for how the program would work, though they're probably not original outisde of my head since connnect 4 has been around for so long. At least it's the first time I've thought about this kind of thing so it's close enough to originality to me. Also not all of the ideas ended up in the final build. All the finished code can really do is block the player but if it's conflicted it tries to connect 4 pieces together.
 
 each empty space calculated on point system of 4 scales:
 (V) Vertical
