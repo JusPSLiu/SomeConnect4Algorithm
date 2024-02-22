@@ -5,7 +5,7 @@ The executable file itself opens a command line window for the game. The program
 
 ![gameplay start](https://github.com/JusPSLiu/SomeConnect4Algorithm/blob/main/Images/connect4.gif)
 
-![losing](https://github.com/JusPSLiu/SomeConnect4Algorithm/blob/main/Images/connect4.gif)
+![losing](https://github.com/JusPSLiu/SomeConnect4Algorithm/blob/main/Images/connectlose.gif)
 
 I wrote it in C++, but it's a bit sloppy with variables being reused for different purposes haphazardly and my 4d array ended up being virtually unused because it seems like a lot of work for an extra few lines of code that make it virtually the same. Also the drawing screen function had to be modified late after I made it for the game pieces falling animation but I didn't feel like adding a parameter to every single time I call the function (even though all I really had to do was ctrl+R) so I just copied it because it's a small function anyway. Maybe I'll modify it later I guess.
 
